@@ -1,6 +1,7 @@
-package actorselection
+package com.example.actorselection
 
 import akka.actor.{ActorRef, ActorSystem, Props}
+import com.example.models.Message
 
 object ExternalClass extends App {
 

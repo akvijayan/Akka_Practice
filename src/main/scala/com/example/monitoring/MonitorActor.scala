@@ -1,4 +1,4 @@
-package monitoring
+package com.example.monitoring
 
 import akka.actor.{Actor, Props, Terminated}
 

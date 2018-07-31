@@ -1,6 +1,7 @@
-package replayactorbehaviorwithbecome
+package com.example.replayactorbehaviorwithbecome
 
 import akka.actor.Actor
+import com.example.models.Message
 
 class BecomeActor extends Actor {
 

@@ -1,6 +1,7 @@
-package actorselection
+package com.example.actorselection
 
 import akka.actor.Actor
+import com.example.models.Message
 
 class ActorSelection extends Actor {
 

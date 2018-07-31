@@ -1,6 +1,7 @@
-package supervisor
+package com.example.supervisor
 
 import akka.actor.{ActorSystem, Props}
+import com.example.models.Message
 
 object ExternalClass extends App {
 

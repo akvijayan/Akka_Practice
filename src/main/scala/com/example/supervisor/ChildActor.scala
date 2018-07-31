@@ -1,7 +1,8 @@
-package supervisor
+package com.example.supervisor
 
 import akka.actor.Actor
-import supervisor.exception.{RestartException, ResumeException, StopException}
+import com.example.models.Message
+import com.example.supervisor.exception.{RestartException, ResumeException, StopException}
 
 class ChildActor extends Actor {
 

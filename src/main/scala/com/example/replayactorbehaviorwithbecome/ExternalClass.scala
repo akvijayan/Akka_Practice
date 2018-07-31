@@ -1,6 +1,7 @@
-package replayactorbehaviorwithbecome
+package com.example.replayactorbehaviorwithbecome
 
 import akka.actor.{ActorSystem, Props, Terminated}
+import com.example.models.Message
 
 object ExternalClass extends App {
 

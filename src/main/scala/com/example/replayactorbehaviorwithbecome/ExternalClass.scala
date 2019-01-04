@@ -11,5 +11,5 @@ object ExternalClass extends App {
 
   parentActor ! Message("Connect")
 
-  parentActor ! Message("disconnect")
+//  parentActor ! Message("disconnect")
 }
